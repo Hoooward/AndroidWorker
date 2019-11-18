@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.3.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.3.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://$MODULE_DIR$/build/generated/res/rs/debug;file://$MODULE_DIR$/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/debug/java;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/release/kotlin;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/release/java;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/debugAndroidTest/kotlin;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/debugUnitTest/kotlin;/Users/tychooo/Documents/git-reactnative/AndroidWorker/app/src/releaseUnitTest/kotlin">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.31/721b62ccbafe51a284ca0d1c5dcfdce8cedd4255/kotlin-android-extensions-runtime-1.3.31.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.31/e652770b6416c6d85934086899ffed3eccd35813/kotlin-stdlib-jdk7-1.3.31.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.1.1/3d2b7321cdef9ebf9cb7729ea4f75a6f6457df86/kotlinx-coroutines-core-1.1.1.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6fa37f0a6673e25ce763bebc15328c96/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.1.aar/25a497733aa44c36f8981e61fa0355a9/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/394ee6d9e141acb9fbf9daf228fd8cd789eaa49a/rxjava-2.2.7.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/work-runtime-ktx-1.0.0-alpha10.aar/075c6d6eecb892a96217a6c5509ebf9b/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/c8e8d0a39cfa961b46de1ca8abe2c552/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/work-runtime-1.0.0-alpha10.aar/5838a079914c806f7d749f6d807c874f/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/64646e9c67f758965add7031168807b1/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/868905b4ea261d7d2a2cf53585583aac/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/efc45234630b36aaf1fb76dd36fe14bb/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/91c9270b4e440a334afeea2113a20e57/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1-rc1.aar/fa98732c76b899a0356e84295c8d3e2b/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e1b7f731eb49605dc29155497d87df84/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bf0b10a2bd6a7c442e70dcc49dd1d918/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dd02bc605783e40ca8ce81581b431d3e/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/1.0.0/28dde99672ed62a85e85a7df096c6bec698785b4/socket.io-client-1.0.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.msgpack/msgpack-core/0.8.16/26af8b01c56128ae248413a7b5c94c08df5eddca/msgpack-core-0.8.16.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.lz4/lz4-java/1.4.0/db5083b84299ad982a19677316da9a49363ad6e0/lz4-java-1.4.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/1.0.0/45fc6115750f06a9cd5dd71632cb7fc052cd66de/engine.io-client-1.0.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.14.0/c3a9efd10f26a802da2c47dbe54a8d4c44a6019f/okhttp-3.14.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.bio/npy/0.3.3/3c77cf22940097e487bbe1618680e2e66e8e96d8/npy-0.3.3.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-core/1.0.0-beta4/e04edc115bfd00c6b8ed09eca7ee1ddeb32fa852/deeplearning4j-core-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native/1.0.0-beta4/81decdafdb75fe74c7c5a7e11ea6cc4e4f73cd67/nd4j-native-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native/1.0.0-beta4/f5a05b323ad4dec46a8d5a20302132aa0f269a51/nd4j-native-1.0.0-beta4-android-arm.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native/1.0.0-beta4/bf62b9ec62cba9a5a5435ce7292d466432329978/nd4j-native-1.0.0-beta4-android-arm64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native/1.0.0-beta4/dd814c44ac831f240fc62a711f9f5fe99caa2567/nd4j-native-1.0.0-beta4-android-x86.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native/1.0.0-beta4/77ff43d4f97dd350fcf3547aff0e3b9a60199022/nd4j-native-1.0.0-beta4-android-x86_64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/openblas/0.3.5-1.5/81ac027b44220db23c26ee0aab8cd7343c9df620/openblas-0.3.5-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/openblas/0.3.5-1.5/58f5cb66f9f533539c7dcd4d18b489784de55e9d/openblas-0.3.5-1.5-android-arm.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/openblas/0.3.5-1.5/e77c0ba323a276f3ccf5d1650337a55db2c8df62/openblas-0.3.5-1.5-android-arm64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/openblas/0.3.5-1.5/cb0be0ebc2dcbb8aa90f3af1c9d860ecd0209639/openblas-0.3.5-1.5-android-x86.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/openblas/0.3.5-1.5/5971c52d32ae961a23122d85e049370bcf754379/openblas-0.3.5-1.5-android-x86_64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-datasets/1.0.0-beta4/74b5c7c8befb4c07d22f473cc72b5285f8ce66f2/deeplearning4j-datasets-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.datavec/datavec-data-image/1.0.0-beta4/51ff53c0d0dc53f9d188f93f1911c74550e7ded6/datavec-data-image-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/javacv/1.5/f4a4cba80cb84fbe46f06a6f67df49aee6bdcc67/javacv-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/flandmark/1.07-1.5/bdfe1936ebb2ab6f824db4f00f63bbca4d051648/flandmark-1.07-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/opencv/4.0.1-1.5/ed1488f93c062d028740a91867747806ae56ad42/opencv-4.0.1-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/opencv/4.0.1-1.5/a06aa236a25c542fa4ec78af120ab6b242c89931/opencv-4.0.1-1.5-android-arm.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/opencv/4.0.1-1.5/b117daf3b5c14ccb4c45915feae1327ab5972d23/opencv-4.0.1-1.5-android-arm64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/opencv/4.0.1-1.5/16d4a2cc02d0c39416efff53a10c3b5bef7b10d7/opencv-4.0.1-1.5-android-x86.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/opencv/4.0.1-1.5/2cc7515813c1abafccf2dccb1e76761c94b1236d/opencv-4.0.1-1.5-android-x86_64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/tesseract/4.0.0-1.5/fd3c9aaf8f7e446d16070b2f0031ec3a30111ed8/tesseract-4.0.0-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/leptonica/1.78.0-1.5/8f2d87de6e60355699c265fa5cf40463654a4c29/leptonica-1.78.0-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/leptonica/1.78.0-1.5/3a0611784ee2e5243fdcdd14e2a977ed0d3bb0a6/leptonica-1.78.0-1.5-android-arm.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/leptonica/1.78.0-1.5/7d17b06dee77ef8d8f2a358457dab0927e4718b8/leptonica-1.78.0-1.5-android-arm64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/leptonica/1.78.0-1.5/c58bf067e0f4515281c79380d373b656c40d57c4/leptonica-1.78.0-1.5-android-x86.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/leptonica/1.78.0-1.5/5c70f75bc0d4321082132244b11f30c53e2053ae/leptonica-1.78.0-1.5-android-x86_64.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-tsne/1.0.0-beta4/be5fac7f3362b5a59ee986077c665689ab9ceaf2/deeplearning4j-tsne-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-datavec-iterators/1.0.0-beta4/cc95850fc50a9a2e8fb01fe952b0515c04751ae1/deeplearning4j-datavec-iterators-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-modelimport/1.0.0-beta4/1c7670e6c3dbda21d545d3a24fe2d29043b5e76c/deeplearning4j-modelimport-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/nearestneighbor-core/1.0.0-beta4/cd218c319813cee5fc887b95d4ac606e709852ac/nearestneighbor-core-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-nn/1.0.0-beta4/89a5499cd968b74db21b41309e611f9d749476a9/deeplearning4j-nn-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.datavec/datavec-api/1.0.0-beta4/e0ad8832dda8dace420eef13aed834d927dd71cc/datavec-api-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-native-api/1.0.0-beta4/3c6ee5f5ffdbd38b0f01773e067a2b92cf30d54b/nd4j-native-api-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-utility-iterators/1.0.0-beta4/a4d01dc98753d86ddc6d4374c2fa5d63c2fc9e83/deeplearning4j-utility-iterators-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-util/1.0.0-beta4/8fa0f944b052d1d1bd7387b4704c73bcdb4373b9/deeplearning4j-util-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-api/1.0.0-beta4/2e39b168e2658e28b11da6ae262364ee523ec56b/nd4j-api-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.github.os72/protobuf-java-util-shaded-351/0.9/e4a45ffdf337c6d627bcf2edcb2de2d906bd6ee5/protobuf-java-util-shaded-351-0.9.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/annotations/3.0.1/fc019a2216218990d64dfe756e7aa20f0069dea2/annotations-3.0.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/11289d20fd95ae219333f3456072be9f081c30cc/kotlin-stdlib-1.3.31.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.1.1/7ed04382bdf0c89c5d87ac462aa4935ae8e85243/kotlinx-coroutines-core-common-1.1.1.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/75140ebcf92dd5b04a5880c2c9446ea7/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c0f9f5a76917a2f4ba074e01eabf000b/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0d50a1a0892fd230be2604ebdca814a9/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a6dd01c4af9ebc41c68454a9f85593a8/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dfe5651b64034e755bbcc2c23cb1457e/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49aa1be97d42cbcb1aeda697e3cb05b5/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2ae510c7e183bf9d4bc3452cd5954601/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/795c8ef7adf32ed8025f5e59214d536d/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1a8b2c471917f51696c9264c057102ca/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6a24ca0ff31ff901fa5509a7b588494/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b693b34af601a3f30b44df1538b433a9/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9263eded91197e72124505e3791f9da0/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d70cba458743a1777f8e41ca8d162a9e/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5282bed12ca3172bc80d999cb8eac7d7/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/890a89353dccd5013dbf34ef6c3eadf0/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14989e4eea15603022eda3fe4dc2cf3f/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/02e4672184070172a69ead2b482d034b/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e9e6f1e00b00267890d230821485a3a/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/daf9abeca6c622592af752cd0cbd805b/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.1.1-rc1/5397b78fb7e122920aa14fe84062aa344e9d8fab/common-1.1.1-rc1.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1-rc1.aar/f195b92c08eed71f104b34eb21e86aa8/jars/classes.jar:/Users/tychooo/.gradle/caches/transforms-1/files-1.1/db-1.1.1-rc1.aar/89d19cf2d9fe7784ceec4a68f9cfbe27/jars/classes.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.17.2/78c7820b205002da4d2d137f6f312bd64b3d6049/okio-1.17.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/3.4.2/18dfa6fad54d8cebed5600a67aefa8c6601ebd77/oshi-core-3.4.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-ui-components/1.0.0-beta4/563e2097b374bd088f4148b7546eac0814ed8f98/deeplearning4j-ui-components-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.deeplearning4j/deeplearning4j-common/1.0.0-beta4/fe9600e13a5813a8268b527b3bbe5c2c595a61d5/deeplearning4j-common-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-buffer/1.0.0-beta4/a2eb21cedc7d80621a6119e17f5f2c55dafa6688/nd4j-buffer-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-context/1.0.0-beta4/f1b43027129bc2da011e27c5e60aee2209e5971/nd4j-context-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-common/1.0.0-beta4/4ea48fb7fa7b3e3b66e2dc1d4fa5f506a2187194/nd4j-common-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.24/3f6b4bd4f8dbe8d4bea06d107a3826469b85c3e9/slf4j-api-1.7.24.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.5/13af68e9a11576953f5c4b09436f8207be9d3a27/commons-math3-3.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.16.1/7b5cdabadb4cf12f5ee0f801399e70635583193f/commons-compress-1.16.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.6/9d28a6b23650e8a7e9063c04588ace6cf7012c17/commons-lang3-3.6.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-jackson/1.0.0-beta4/6593c3bb988ffc310e431198da9ffa99d5e747a3/nd4j-jackson-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.nd4j/jackson/1.0.0-beta4/875f35aab0f8a14bcf390624738afdda50b5169e/jackson-1.0.0-beta4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/mkl/2019.3-1.5/4db467dce1859361dd639ec1a5c0d62b2eb696af/mkl-2019.3-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/mkl-dnn/0.18.1-1.5/31bb642f8de0d5a3229510d8d4938c3650b52547/mkl-dnn-0.18.1-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/ffmpeg/4.1.3-1.5/f6930fab720179f3c4572b5372beaf5cbbc7a2c4/ffmpeg-4.1.3-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/flycapture/2.13.3.31-1.5/c4d5155af60df313c9bb95fc3487bb25ec0ae7a5/flycapture-2.13.3.31-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/libdc1394/2.2.5-1.5/c9751d49a8fb6ff3bc2e5c08380e07de605bcec9/libdc1394-2.2.5-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/libfreenect/0.5.7-1.5/3da406f0774a1532f5b459cb2ceea3e5bce5abf8/libfreenect-0.5.7-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/libfreenect2/0.2.0-1.5/73c1621663b3e390a63551dfd935b851883cb2dd/libfreenect2-0.2.0-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/librealsense/1.12.1-1.5/1a73202874c6d60d8c6d26e2a5125243d3f9c2b6/librealsense-1.12.1-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/videoinput/0.200-1.5/b4cdc762e26ad41122647d9e3f9c468db7ab83c0/videoinput-0.200-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/artoolkitplus/2.3.1-1.5/b80375c2157422bcb315d5bf245bef1191bbfe74/artoolkitplus-2.3.1-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.bytedeco/javacpp/1.5/d655e7adf50f000307f982b4238e29dcce54ebc8/javacpp-1.5.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/20c34a04ea25cb1ef0139598bd67c764562cb170/kotlin-stdlib-common-1.3.31.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.lucee/oswego-concurrent/1.3.4/ad572b8223d1cb1ebccdf35428a3077a4209647f/oswego-concurrent-1.3.4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.clearspring.analytics/stream/2.7.0/9998f8cf87d329fef226405f8d519638cfe1431d/stream-2.7.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/6.5.7/dec71174d0c8a20f355e5af8b59f25eb424c49d3/fastutil-6.5.7.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/uk.com.robust-it/cloning/1.9.3/543bce6b30867ebccc79956528d4c46f0e491735/cloning-1.9.3.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.jakewharton.byteunits/byteunits/0.9.1/202a0c874feafe7ece9be0a53e9640c9a26f2197/byteunits-0.9.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.google.flatbuffers/flatbuffers-java/1.10.0/d29c00869a12a756cd6569bdf28c75be01f875ac/flatbuffers-java-1.10.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.github.os72/protobuf-java-shaded-351/0.9/7601234796af0ca95776ac15cab943f48127df01/protobuf-java-shaded-351-0.9.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.1/2298164a7c2484406f2aa5ac85b205d39019896f/commons-net-3.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/net.ericaro/neoitertools/1.0.0/25fa0a0aaf12bc386ecdb19a6ee747b361c73a20/neoitertools-1.0.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.12/ebe66a6b88caab31d7a19571ad23656377523545/snakeyaml-1.12.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/3.1.4/ac19014b1e6a7c08aad07fe114af792676b685b7/stax2-api-3.1.4.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.2/a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d/joda-time-2.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.2/2ab94758b0276a8a26102adf8d528cf6d0567b9a/t-digest-3.2.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.github.jai-imageio/jai-imageio-core/1.3.0/268feccd3a0fe32058ede66db41a21d9c7a9e535/jai-imageio-core-1.3.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-jpeg/3.1.1/464d6537504c7855c8aa3669b2726641ee3fd00c/imageio-jpeg-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-tiff/3.1.1/df54331a36fba97907e9413297c51defbe24a224/imageio-tiff-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-psd/3.1.1/8073714c928c9343a9e6dc68b4f48ab9c51a41f0/imageio-psd-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-bmp/3.1.1/3b6f82168a6f76899e33a8a9f4058d0e127df30e/imageio-bmp-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/4.3.0/112d185ecfff7a3e6c33a114c566f9bf6f832244/jna-platform-4.3.0.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2/threetenbp-1.3.3.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-metadata/3.1.1/52b6b85601492e94fa8a08211c08179b1c888d91/imageio-metadata-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.imageio/imageio-core/3.1.1/dbdf29da53ac89753d9abfc0f38802f6483821e/imageio-core-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-image/3.1.1/c86b3bc138b0caee17ce4193275636543cf28bfe/common-image-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-io/3.1.1/b6aec796ca2d20b145b6fa88bbe068724a258450/common-io-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-lang/3.1.1/a9b5f8094211a8fbe5e9f469ebb266c1886d3666/common-lang-3.1.1.jar:/Users/tychooo/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.3.0/f11d386a05132f54a51c99085f016e496f345ea3/jna-4.3.0.jar:/Users/tychooo/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.31/57bdeb88c9265052448a7a8422ed64ad92e9b262/kotlin-android-extensions-1.3.31.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-core:3.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:runner:1.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test:monitor:1.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-idling-resource:3.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-dsl-jvm:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-common:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-agent-jvm:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:3.0.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-dsl:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-agent-common:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.mockk:mockk-agent-api:1.9.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.9.10@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.9.10@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.7@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.socket:socket.io-client:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.msgpack:msgpack-core:0.8.16@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.lz4:lz4-java:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.socket:engine.io-client:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.14.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.bio:npy:0.3.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-core:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native:1.0.0-beta4:android-arm@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native:1.0.0-beta4:android-arm64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native:1.0.0-beta4:android-x86@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native:1.0.0-beta4:android-x86_64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:openblas:0.3.5-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:openblas:0.3.5-1.5:android-arm@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:openblas:0.3.5-1.5:android-arm64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:openblas:0.3.5-1.5:android-x86@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:openblas:0.3.5-1.5:android-x86_64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-datasets:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.datavec:datavec-data-image:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:javacv:1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:flandmark:1.07-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:opencv:4.0.1-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:opencv:4.0.1-1.5:android-arm@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:opencv:4.0.1-1.5:android-arm64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:opencv:4.0.1-1.5:android-x86@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:opencv:4.0.1-1.5:android-x86_64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:tesseract:4.0.0-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:leptonica:1.78.0-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:leptonica:1.78.0-1.5:android-arm@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:leptonica:1.78.0-1.5:android-arm64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:leptonica:1.78.0-1.5:android-x86@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:leptonica:1.78.0-1.5:android-x86_64@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-tsne:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-datavec-iterators:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-modelimport:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:nearestneighbor-core:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-nn:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.datavec:datavec-api:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-native-api:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-utility-iterators:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-util:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-api:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.os72:protobuf-java-util-shaded-351:0.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:3.0.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:collections:28.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence.room:common:1.1.1-rc1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:28.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.17.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.oshi:oshi-core:3.4.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-ui-components:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.deeplearning4j:deeplearning4j-common:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-buffer:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-context:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-common:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.24@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-math3:3.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.16.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:20.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:nd4j-jackson:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.nd4j:jackson:1.0.0-beta4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:mkl:2019.3-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:mkl-dnn:0.18.1-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:ffmpeg:4.1.3-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:flycapture:2.13.3.31-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:libdc1394:2.2.5-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:libfreenect:0.5.7-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:libfreenect2:0.2.0-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:librealsense:1.12.1-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:videoinput:0.200-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:artoolkitplus:2.3.1-1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:javacpp:1.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.lucee:oswego-concurrent:1.3.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.clearspring.analytics:stream:2.7.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: it.unimi.dsi:fastutil:6.5.7@jar" level="project" />
+    <orderEntry type="library" name="Gradle: uk.com.robust-it:cloning:1.9.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.jakewharton.byteunits:byteunits:0.9.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.flatbuffers:flatbuffers-java:1.10.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.os72:protobuf-java-shaded-351:0.9@jar" level="project" />
+    <orderEntry type="library" name="Gradle: commons-net:commons-net:3.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: net.ericaro:neoitertools:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.12@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.woodstox:stax2-api:3.1.4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.freemarker:freemarker:2.3.23@jar" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.opencsv:opencsv:2.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tdunning:t-digest:3.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jai-imageio:jai-imageio-core:1.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-jpeg:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-tiff:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-psd:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-bmp:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna-platform:4.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.threeten:threetenbp:1.3.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-metadata:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.imageio:imageio-core:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.common:common-image:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.common:common-io:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twelvemonkeys.common:common-lang:3.1.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxandroid:2.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.work:work-runtime-ktx:1.0.0-alpha10@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:multidex:1.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.work:work-runtime:1.0.0-alpha10@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:extensions:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence.room:runtime:1.1.1-rc1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:loader:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:viewmodel:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:viewpager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:coordinatorlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:drawerlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:slidingpanelayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:customview:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:swiperefreshlayout:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:versionedparcelable:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:cursoradapter:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:runtime:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:documentfile:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:print:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:interpolator:28.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence:db-framework:1.1.1-rc1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.persistence:db:1.1.1-rc1@aar" level="project" />
+  </component>
+</module>
